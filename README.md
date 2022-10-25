@@ -9,3 +9,6 @@ Pre-pandemic projections of production non-supervisory restaurant workers versus
 
 ### New Markets for Small Businesss
 Ongoing project for predicting the top counties for small business development.
+
+### Egg Prices
+Analysis of different egg labels and their prices.
