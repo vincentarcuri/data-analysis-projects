@@ -1,6 +1,9 @@
 # data-analysis-projects
 Code repository for various data analysis projects
 
+### Job_Market_Jan2024
+A look employment at the latest employment data for the Professional & Businesses Services sector.
+
 ### faculty-salaries
 Project analyzing professor salaries from public colleges and universities in North Carolina
 
